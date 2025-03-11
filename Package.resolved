@@ -1,0 +1,24 @@
+{
+  "originHash" : "2ebcf6dcf5f0e7ed57dcfafa9e337eca637dade22327439507141057d80f101a",
+  "pins" : [
+    {
+      "identity" : "base58",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fish-yan/Base58",
+      "state" : {
+        "revision" : "534ced6eaa99b2779644aeede1c7f399e332d6a5",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "cryptoswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/CryptoSwift.git",
+      "state" : {
+        "revision" : "729e01bc9b9dab466ac85f21fb9ee2bc1c61b258",
+        "version" : "1.8.4"
+      }
+    }
+  ],
+  "version" : 3
+}
